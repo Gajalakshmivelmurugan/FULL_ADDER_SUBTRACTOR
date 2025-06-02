@@ -1,6 +1,6 @@
 # NAME:Gajalakshmi V
 # REGNO: 212223040047
-# EXP 4 FULL_ADDER_SUBTRACTOR
+# EXP 4 FULL ADDER SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
